@@ -27,8 +27,8 @@ async def carbon_func(_, message):
 @pbot.on_message(filters.command("repo"))
 async def repo(_, message):
     await message.reply_text(
-        f"""✨ **Hey I'm Prime Mega** 
-**Owner repo : [『TØNIC』](https://t.me/Bukan_guudlooking)**
+        f"""✨ **Hey I'm AL** 
+**Owner repo : [AL](https://t.me/IDnyaAL)**
 **Python Version :** `{y()}`
 **Library Version :** `{o}`
 **Telethon Version :** `{s}`
@@ -38,8 +38,8 @@ async def repo(_, message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Repo", url="https://github.com/Tonic990/PrimeMega"), 
-                    InlineKeyboardButton("Support", url="https://t.me/PrimeSupportGroup")
+                    InlineKeyboardButton("Repo", url="https://xnxx.com"), 
+                    InlineKeyboardButton("Channel", url="https://t.me/AL_Seller")
                 ]
             ]
         ),

@@ -39,7 +39,7 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton("Repo", url="https://xnxx.com"), 
-                    InlineKeyboardButton("Channel", url="https://t.me/AL_Seller")
+                    InlineKeyboardButton("Channel", url="https://t.me/QwertYou_LoveMe")
                 ]
             ]
         ),
